@@ -38,7 +38,8 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## A Note on Code Usage
 
-This project is provided for personal use and inspiration only. While I’m happy to share this project, I encourage you to use it as inspiration! If you decide to use or build upon this code, please make sure to provide proper credit. A simple shoutout or link back to this repository is appreciated to acknowledge the original creator.
+Feel free to use this project as inspiration for your own interactive web pages.If you build upon this code or use it as a starting point for your project, a simple shoutout or link back to this repository is appreciated.
+
 ---
 
 Enjoy  💖
