@@ -16,7 +16,7 @@ This is an interactive webpage where users are asked if they want to go out. Ple
 - `styles.css`: Contains the styles for the initial page, including the layout and visual aspects of the buttons and GIF.
 
 ## Disclaimer
-Not all code is provided in this repository. This is a high-level overview for inspiration.
+Not all code is provided in this repository. This is an overview for inspiration.
 
 ## Key Functions
 
